@@ -19,9 +19,7 @@
 ### :woman_technologist: About Me :
 - :telescope: I’m a final year student at Illinois Institute of Technology, Chicago 
 
-- :seedling: Exploring Machine learning.
-
-- :zap: In my free time, I solve problems on LeetCode!
+- :seedling: Exploring HCI.
 
 
 ---

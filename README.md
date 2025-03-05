@@ -15,8 +15,6 @@
 </h1>
 
 ---
-
-### :woman_technologist: About Me :
 - :telescope: I’m currently exploring the world of AI!
 
 ---

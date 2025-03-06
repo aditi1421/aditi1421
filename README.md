@@ -15,23 +15,4 @@
 </h1>
 
 ---
-- :telescope: I’m currently exploring the world of AI!
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-<img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg?short_path=880e730"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;  
-</div>
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aditi1421&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi1421&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+- I’m currently exploring the world of AI!
